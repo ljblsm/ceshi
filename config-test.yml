@@ -1,3 +1,3 @@
-env: test
+env: test3
 test:
-  env: test2
+  env: test3
